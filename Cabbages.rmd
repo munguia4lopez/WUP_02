@@ -61,3 +61,8 @@ t.test(VitC ~ Cult,data=veggy)
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+It appears from the boxplot that cultivation method C52 results in higher Vitamin C content   
+The numerical summary shows that on average C52 cultivation results in about 13 Vitamin C units more.  
+The P value is 0.000000003  < 0.05 the null hypothesis is extremly unlikely; we reject the null hypothosis  
+We conclude there is a difference in Vitamin C content based on cultivation. 
